@@ -12,10 +12,10 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 
-##Steps
+## Steps
 
-#1. cd src
+# 1. cd src
 
-#2. Run with: $ javac App.java
+# 2. Run with: $ javac App.java
 
 
