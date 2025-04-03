@@ -26,10 +26,8 @@ The workspace contains two folders by default, where:
 #### 3. Run with: 
         $ javac App.java
  
-#### 4. Start game by pressing any arrow. 
-####    Navigate using arrow keys. 
+Start game by pressing any arrow key. Control snake using numpad arrow keys. 
                 
-
 Enjoy🤟
 
 
