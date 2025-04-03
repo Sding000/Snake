@@ -1,5 +1,9 @@
 ## Getting Started
 
+### Prerequisites
+    - Java sdk
+
+
 Welcome to the snakegame. Here is a guideline to help run the game. 
 
 ## Folder Structure
@@ -20,6 +24,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
         $ cd src
 
 #### 3. Run with: 
-        $ javac App.java ( make sure you             have javac/java installed ) 
+        $ javac App.java
 
 
