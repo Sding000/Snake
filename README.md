@@ -1,4 +1,8 @@
-## Getting Started
+## Getting Started 
+
+
+# 🪱
+
 
 ### Prerequisites
 - [Java Development Kit](https://www.oracle.com/java/technologies/downloads/) 
@@ -29,6 +33,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ####    Navigate using arrow keys. 
                 
 
-Enjoy🤟. 
+Enjoy🤟
 
 
