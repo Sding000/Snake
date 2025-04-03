@@ -14,8 +14,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Steps
 
-# 1. cd src
+### 1. cd src
 
-# 2. Run with: $ javac App.java
+### 2. Run with: $ javac App.java
 
 
