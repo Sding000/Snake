@@ -25,8 +25,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 #### 3. Run with: 
         $ javac App.java
  
-#### 4. Start game by pressing any arrow
-        and navigate  ⬆️, ➡️, ⬇️, ⬅️.         
+#### 4. Start game by pressing any arrow. 
+        Navigate using arrow keys. 
+                
 
 Enjoy🤟. 
 
