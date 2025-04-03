@@ -26,8 +26,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
         $ javac App.java
  
 #### 4. Start game by pressing any arrow
-       and move using numpad arrow keys 
-       ⬆️, ➡️, ⬇️, ⬅️.         
+        and navigate  ⬆️, ➡️, ⬇️, ⬅️.         
 
 Enjoy🤟. 
 
