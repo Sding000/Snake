@@ -1,8 +1,7 @@
 ## Getting Started
 
 ### Prerequisites
-    - Java sdk
-
+[Java sdk] (https://www.oracle.com/java/technologies/downloads/) 
 
 Welcome to the snakegame. Here is a guideline to help run the game. 
 
