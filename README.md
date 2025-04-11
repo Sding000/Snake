@@ -1,18 +1,33 @@
-## Getting Started
+## Getting Started 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+# 🪱
+
+
+### Prerequisites
+- [Java Development Kit](https://www.oracle.com/java/technologies/downloads/) 
+
+Welcome to the snakegame. Here is a guideline to help run the game. 
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+-  `bin`: Compiled output files will be generated here
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Steps
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+#### 1. Clone this repo.
 
-## Dependency Management
+#### 2. Navigate into the "src" directory
+        $ cd src
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### 3. Run with: 
+        $ javac App.java
+ 
+Start game by pressing any arrow key. Control snake using numpad arrow keys. 
+                
+Enjoy🤟
+
+
