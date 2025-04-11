@@ -1,3 +1,4 @@
+
 import java.awt.*;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -129,13 +130,14 @@ public class Snakeg extends JPanel implements ActionListener, KeyListener {
             snakeHead.y += velocityY;
 
 
-            //game over conditions
+            //game over conditionsst
             for (int i = 0; i < snakeBody.size(); i++){
                 Tile snakePart = snakeBody.get(i);
                 //collide with the snake head
                 if (collision(snakeHead, snakePart)) {
                 gameOver = true;
-                } else {}
+                } else {
+                }
             }
 
 
@@ -160,8 +162,8 @@ public class Snakeg extends JPanel implements ActionListener, KeyListener {
 
         @Override
         public void keyPressed(KeyEvent e) {
-
             //TODO change the if statement to a switch case
+            //TODO implement a restart function
         if (e.getKeyCode() == KeyEvent.VK_UP && velocityY != 1) {
             velocityX = 0;
             velocityY = -1;
@@ -186,8 +188,6 @@ public class Snakeg extends JPanel implements ActionListener, KeyListener {
         public void keyTyped(KeyEvent e) {
      
         }
-
-
         @Override
         public void keyReleased(KeyEvent e) {
          

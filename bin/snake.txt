@@ -1,0 +1,6 @@
+
+UPDATES
+
+1. Make the grid have circle tiles using circle math functions.
+2. A restart button to restart game.
+3. A pause game feature when playing
